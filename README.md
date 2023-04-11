@@ -1,3 +1,3 @@
 # Plant-Classification ( in progress)
 
-In this project I will use a k-nearest neighbors algorithm (k-NN) to associae plants with each other based on the dimension that are given. This is a full stack apllication where the model will be accessed via an API and the data will be stored in an Azure Database and connected to Tableau for analysis.
+In this project I am using regex and NLP to clean a webscraped flower database site and extract the features and colors for each plant. The colors and features from each plant can then be used to build a full stack application, where a KNN can be used and so that entering the features of a plant can then tell which plant you have. 
